@@ -29,10 +29,8 @@ sabrine/my-student-hpo-study
 3. Add this Colab badge to the top of this README after replacing the repo path:
 
 ```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/user_study_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabri-manai/user-study-cf-hpo-xai/blob/main/user_study_notebook.ipynb)
 ```
-
-Students can then click the badge and run the notebook directly in Colab.
 
 ## Student Flow
 
