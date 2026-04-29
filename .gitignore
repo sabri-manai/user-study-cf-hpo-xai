@@ -1,0 +1,17 @@
+# Local environments
+.venv/
+venv/
+env/
+
+# Notebook/runtime files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Generated student outputs
+student_baseline_outputs/
+
+# Local logs/temp
+*.log
+*.tmp
+catboost_info/
